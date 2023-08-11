@@ -1,0 +1,2 @@
+# vicem-init
+git-home
