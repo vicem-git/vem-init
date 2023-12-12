@@ -1,4 +1,4 @@
-# vicem-init
+# vem-init
 git-home
 
 <p align="left">
