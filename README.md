@@ -12,10 +12,7 @@ alt banner <img alt="banner" title="art-site" src="./bannergit.png"/></a>
 
 ** software developer / visual artist **
 
-Python, OOP, data structures and algorithms, Linux, blockchain, Ethereum, Solidity, JS, React
-
-other interests:
-pure data, cellular automata, networks - wireshark, 
+Python, OOP, data structures and algorithms, Linux, blockchain, Ethereum, Solidity, TS, React
 
 
 ### 🧰 Languages and Tools
